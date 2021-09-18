@@ -1,0 +1,27 @@
+{
+    "appdata": {
+        "mainTiles": [
+            {
+                "id": 1,
+                "name": "Years Experience",
+                "value": "3+"
+            },
+            {
+                "id": 2,
+                "name": "Completed Projects",
+                "value": "20+"
+            },
+            {
+                "id": 3,
+                "name": "Recommendations",
+                "value": "8+"
+            },
+            {
+                "id": 4,
+                "name": "Freelance Clients",
+                "value": "5+"
+            }
+        ],
+        "recommendations": []
+    }
+}
